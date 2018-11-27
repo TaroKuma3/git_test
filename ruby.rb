@@ -1,1 +1,2 @@
 put "ばぐだよ!"
+put "test"
